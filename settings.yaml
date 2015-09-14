@@ -1,4 +1,4 @@
-consumer_key: XXX
-consumer_secret_key: XXX
-access_token: XXX
-access_token_secret: XXX
+:consumer_key: XXX
+:consumer_key_secret: XXX
+:access_token: XXX
+:access_token_secret: XXX

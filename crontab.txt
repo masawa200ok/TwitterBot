@@ -1,0 +1,1 @@
+30 8-23/3 * * * 30 8-23/3 * * * /Users/masawa200ok/Work/TwitterBot/bot.sh
